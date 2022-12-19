@@ -1,0 +1,12 @@
+cython
+cffi
+opencv-python
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+imageio
+ipdb
+tqdm

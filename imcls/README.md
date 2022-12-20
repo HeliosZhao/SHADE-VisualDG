@@ -58,7 +58,7 @@ bash scripts/train_l2d.sh
 @article{zhao2022shadevdg,
   title={Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization},
   author={Zhao, Yuyang and Zhong, Zhun and Zhao, Na and Sebe, Nicu and Lee, Gim Hee},
-  journal={arXiv},
+  journal={arXiv preprint arXiv:2212.09068},
   year={2022}}
 ```
 

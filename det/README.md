@@ -52,7 +52,7 @@ python train.py --cuda --no_freeze --detect_all --color_tf --add_classifier
 ### Test
 
 ```
-bash test.sh ${OUT_DIR} ${CHECK_ID}
+bash test.sh ${OUT_DIR} 9
 ```
 
 
